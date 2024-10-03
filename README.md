@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/373fdc76-2428-4643-a29c-bf3a771b55db" width=400px/>
+<img src="https://github.com/user-attachments/assets/373fdc76-2428-4643-a29c-bf3a771b55db" width=500px/>
 A simple restaurant website
 HTML + CSS
 Feature:
