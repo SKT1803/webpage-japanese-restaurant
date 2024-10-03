@@ -1,4 +1,4 @@
-<img width:200px>
+<img width=200px>
 A simple restaurant website
 HTML + CSS
 Feature:
