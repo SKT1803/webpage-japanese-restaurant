@@ -1,6 +1,6 @@
 
 A simple restaurant webpage <br>
-Only used HTML + CSS<br<
+Only used HTML + CSS<br>
 Features:
   - CSS animations
   - Responsive
